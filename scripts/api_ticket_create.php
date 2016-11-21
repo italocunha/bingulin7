@@ -15,7 +15,7 @@ $config = array(
 
 $data = array(
     'name'      =>      'John Doe',
-    'email'     =>      'mailbox@host.com',
+    'email'     =>      'mailbox@host.co
     'subject'   =>      'Test API message',
     'message'   =>      'This is a test of the osTicket API',
     'ip'        =>      $_SERVER['REMOTE_ADDR'],
